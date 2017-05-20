@@ -7,8 +7,6 @@ A Laravel app
 
 ![](https://img.shields.io/badge/Laravel-5.4-green.svg)
 
-![](https://img.shields.io/badge/laravel-debugbar-~2.3@dev-blue.svg)
-
 ## Installation : ##
 
 ```
